@@ -1,4 +1,4 @@
-# **stock-analysis**
+# **Stock Market Analysis**
 Stock Analysis using VBA macro.
 
 ## **Overview**

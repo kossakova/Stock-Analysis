@@ -9,10 +9,10 @@ This project was made using Excel’s extension application VBA macro. Using sol
 ## **Results**
 Using codes in macro we were able to collect entire stock market data for 2017 and 2018. By summing up total daily value throughout a year of a stock we got yearly percentage of stocks performance. 
 
-!.[VBA_Challenge_2017].(https://github.com/kossakova/stock-analysis/blob/main/Resourses/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](Resourses/VBA_Challenge_2017.png) 
 As we can see in the 2017 picture, most of the stocks had positive performance, especially DAQO Energy Corp, with almost 200% of return. 
 
-!.[VBA_Challenge_2018].(https://github.com/kossakova/stock-analysis/blob/main/Resourses/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](Resourses/VBA_Challenge_2018.png)
 Same stocks had different return percentages in 2018. Only two stocks out of all 12 had positive outcome. DAQO’s Energy Corp stocks were down more than 62%. 
 
 By looking at the analyses for 2017/2018 we can tell:

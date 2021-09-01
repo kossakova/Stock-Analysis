@@ -19,6 +19,9 @@ By looking at the analyses for 2017/2018 we can tell:
 - ENPH and RUN would be the first best options to invest in with positive return outcome for both years. 
 - By refactoring our code, we decreased code runtime from 1.03 to 0.91 seconds, which makes refactoring the ultimate solution for large data sets.
 
+![Original](Resourses/Original.png)
+![Refactored](Resourses/Refactored.png)
+
 The maid difference between original and refactored code is how information is stored. In original code raw data runs inside main loop inside secondary loop, in refactored, however it taken outside of loop and secondary loop into independent for loop. 
 ## **Summary**
 With our refactored solution code Steve will be able to help his parents and others to invest by analyzing stock markets. After comparing data with the original and refactored codes we can make the following conclusions:
